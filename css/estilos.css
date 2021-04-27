@@ -1,0 +1,32 @@
+
+#informacion{
+color: brown;
+
+}
+
+#ingredientes{
+
+  text-align: justify;
+  color: steelblue;
+  padding: 10px;
+
+  
+}
+
+#imagen {
+
+  border:black 5px solid; 
+
+}
+
+#centro{
+  padding: 1em 3em;
+  margin: 1em 25%;
+}
+
+h5 , p{
+
+  color: rgb(0, 0, 0);
+}
+
+
